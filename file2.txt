@@ -1,2 +1,3 @@
 file2 needs some text as well
+Christina added this line
 
