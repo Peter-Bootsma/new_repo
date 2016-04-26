@@ -1,0 +1,2 @@
+file2 needs some text as well
+
